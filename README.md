@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25,32&height=220&section=header&text=Afridho%20Ikhsan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Web%20%26%20Mobile%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=68&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
+  <br/><br/>
+  <img src="./assets/afridho.png" width="175" alt="Afridho Ikhsan, S.Kom." />
+  <br/><br/>
   <a href="https://anthrofax.my.id">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Crafting+scalable+web+%26+mobile+experiences;Full-Stack+Engineer+%7C+Problem+Solver;Flutter+%E2%80%A2+Go+%E2%80%A2+Next.js+%E2%80%A2+Cloudflare;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
   </a>
@@ -28,6 +28,7 @@
 ```typescript
 interface Engineer {
   name: string;
+  degree: string;
   role: string;
   passions: string[];
   currentFocus: string[];
@@ -36,6 +37,7 @@ interface Engineer {
 
 const afridho: Engineer = {
   name: "Afridho Ikhsan",
+  degree: "S.Kom. (Bachelor of Computer Science)",
   role: "Web & Mobile Engineer / Full-Stack Developer",
   passions: [
     "Building reactive cross-platform mobile apps with Flutter",
