@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25,32&height=220&section=header&text=Afridho%20Ikhsan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Web%20%26%20Mobile%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=68&descAlign=50" width="100%"/>
+  <img src="./assets/header.svg" width="100%" alt="Afridho Ikhsan Header" />
   <br/><br/>
   <img src="./assets/afridho.png" width="175" alt="Afridho Ikhsan, S.Kom." />
   <br/><br/>
@@ -111,5 +111,5 @@ const afridho: Engineer = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,25,32&height=100&section=footer" width="100%"/>
+  <img src="./assets/footer.svg" width="100%" alt="Footer Wave" />
 </div>
